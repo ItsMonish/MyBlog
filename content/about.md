@@ -15,7 +15,7 @@ Looking to start my career in the IT industry. I'm open to any roles in Cybersec
 - [CompTIA Security+ SY0-701 Certified.](https://www.credly.com/badges/6aac3c2e-cb90-4aef-a5d2-e55af5cf5023/public_url)
 - [CCNA: Introduction to Networks.](https://www.credly.com/badges/fe24ce4a-4e5b-4b76-8f98-77299b5b8948/public_url)
 
-![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)
+[![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)](https://echoctf.red/profile/3293998)
 
 #### What I can do:
 - Proficient in Python, Go, Bash, C/C++, Javascript, Java. Quite good with the backend stuffs, frontends on the other hand are not really my forte. Can also work with SQL and NoSQL databases.

@@ -45,7 +45,7 @@ Since it is a PNG file, I opened it to view it's contents. It seems to be a stri
 
 ![file color strip](/images/huntressctf-2024/base-p/7.png)
 
-I examined EXIF data, ran the strings utility, viewed the hex code of the image. After hours of scratching my head and searching for encodings in images and may more, nothing came up. Then I showed it to my friend, who jokingly told me what if the data is the hex codes of color of the images. But guess what, it made sense. There are 13 colors. 3 bytes for one color. 39 bytes of data. 39 characters. The flag usually contains 38 characters.
+I examined EXIF data, ran the strings utility, viewed the hex code of the image. After hours of scratching my head and searching for encodings in images and many more, nothing came up. Then I showed it to my friend, who jokingly told me what if the data is the hex codes of color of the images. But guess what, it made sense. There are 13 colors. 3 bytes for one color. 39 bytes of data. 39 characters. The flag usually contains 38 characters.
 
 So I used a color picker to read the hex color code of each color and put them in the file [color_codes](/others/huntressctf-2024/base-p/color_codes).  
 
