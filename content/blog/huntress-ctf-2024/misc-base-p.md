@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "One obscure encoding, and an entirely novel encoding of data"
 +++
 # Base-p-
-## Challenge Statement:
+## Challenge Statement
 Author: Izzy Spering
 
 That looks like a weird encoding, I wonder what it's based on.
 
 Attachment: [based.txt](/others/huntressctf-2024/base-p/based.txt)
 
-## Solution:
+## Solution
 The attachment is a text file. Opening it, the contents were in a language I didn't know. 
 
 ![contents of based](/images/huntressctf-2024/base-p/1.png)

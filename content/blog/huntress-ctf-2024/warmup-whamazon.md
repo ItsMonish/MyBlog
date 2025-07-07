@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "A classic software logic bug based challenge"
 +++
 # Whamazon
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 Wham! Bam! Amazon is entering the hacking business! Can you buy a flag?
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 Starting the instance, I was provisioned a URL to an page. It was a [GoTTY](https://github.com/yudai/gotty) application. I was greeted with a menu to begin with.
 
 ![Greeting](/images/huntressctf-2024/whamazon/1.png)

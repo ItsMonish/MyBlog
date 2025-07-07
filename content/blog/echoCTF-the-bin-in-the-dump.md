@@ -1,13 +1,14 @@
 +++
 date = '2025-04-21T22:27:44+05:30'
 title = 'The Bin in the Dump - EchoCTF Writeup'
-categories = ['Writeup']
+description = 'Forensics based challenge on a EXT filesystem disk image'
+categories = ['Writeup', 'EchoCTF']
 tags = ['forensics','challenge-writeup','echoCTF']
 keywords = ['forensics', 'echoctf', 'writeup', 'The Slueth Kit (TSK)', 'debugfs', 'extundelete']
 summary = 'Writeup for an EchoCTF challenge - The bin in the dump'
 +++
 
-### Introduction:
+## Introduction
 This writeup deals with the [The bin in the dump](https://echoctf.red/challenge/8) challenge from [EchoCTF](https://echoctf.red/). This challenge focused on forensic examination of a filesystem image. A compressed gunzip archive [the_bin_in_the.dump.gz](https://echoctf.red/uploads/the_bin_in_the.dump.gz) contains the filesystem image to be examined.
 
 Challenge Statement:
@@ -19,7 +20,7 @@ The actual data are illustrative and no actual trojans or exploits exist in any 
 You are given a filesystem dump and you are tasked to find and report the following details...
 ```
 
-### Writeup:
+## Writeup
 First things first. Before jumping into the questions we need to understand what kind of file system we are dealing with. 
 
 ![file command output](/images/echoctf_thebininthedump/1.png)
@@ -127,7 +128,7 @@ Do that and slap on the executable bit on the binary with `chmod +x`, we can exe
 
 ![flag](/images/echoctf_thebininthedump/11.png)
 
-### Conclusion:
+## Conclusion
 
 And that brings the challenge to an end. I wouldn't say it as easy as the challenge description puts it. But if you're strong with the fundamentals and know how to search for tools to do things, it is doable.
 

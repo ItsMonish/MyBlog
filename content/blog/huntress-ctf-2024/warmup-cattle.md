@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "A esoteric language based challenge"
 +++
 # Cattle
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 I know it's an esoteric challenge for a Capture the Flag, but could you herd these cows for me?
 
 Attachment: [cattle](/others/huntressctf-2024/cattle/cattle)
 
-## Solution:
+## Solution
 After downloading the file given and reading it, I found it filled with variations of moo, ooo, mmo and so on.
 
 ![Contents of cattle file](/images/huntressctf-2024/cattle/1.png)

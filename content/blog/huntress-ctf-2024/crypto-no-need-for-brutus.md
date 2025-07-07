@@ -18,7 +18,7 @@ A simple message for you to decipher:
 
 Submit the original plaintext hashed with MD5, wrapped between the usual flag format: `flag{}`
 
-## Solution:
+## Solution
 The title includes Brutus who is known for betraying Julius Caesar. Caesar happen to be named after a cipher he created, The Caesar cipher, also known as ROT cipher.
 
 This suggests that the cipher provided might be a ROT cipher for which we don't know the key for.

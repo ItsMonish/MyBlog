@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "Workaround a typo in the SSH entry command"
 +++
 # Typo
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 Gosh darnit, I keep entering a typo in my Linux command prompt!
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 This challenge requires us to SSH into a provisioned per-user instance with the given password. While doing so, I was met with a train. 
 
 ![Train output from SSH](/images/huntressctf-2024/typo/1.png)

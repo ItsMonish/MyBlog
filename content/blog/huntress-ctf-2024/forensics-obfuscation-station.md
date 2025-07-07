@@ -9,7 +9,7 @@ keywords = ['Huntress CTF writeups']
 summary = "A simple obfuscated powershell script"
 +++
 # Obfuscation Station
-## Challenge Statement:
+## Challenge Statement
 Author: @resume
 
 You've reached the Obfuscation Station!  
@@ -20,7 +20,7 @@ Can you decode this PowerShell to find the flag?
 
 Attachment: [challenge.zip](/others/huntressctf-2024/obfuscation-station/challenge.zip)
 
-## Solution:
+## Solution
 Extracting the archive, we have a powershell script with the following contents:
 
 ![chal.ps1](/images/huntressctf-2024/obfuscation-station/1.png)

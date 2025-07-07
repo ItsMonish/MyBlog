@@ -9,7 +9,7 @@ keywords = ['Huntress CTF writeups']
 summary = "Can you read the stack in runtime"
 +++
 # Stack It
-## Challenge Statement:
+## Challenge Statement
 Author: @sudo_Rem
 
 Our team of security analysts recently worked through a peculiar Lumma sample.  
@@ -22,7 +22,7 @@ Attachment: [stack_it.bin](/others/huntressctf-2024/stack-it/stack_it.bin)
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 Running file command on the attachment, we can see that it's an ELF executable.
 
 ![file command](/images/huntressctf-2024/stack-it/1.png)

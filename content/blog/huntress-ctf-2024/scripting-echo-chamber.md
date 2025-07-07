@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "Extracting data from ICMP packets in Packet capture file"
 +++
 # Base64by32
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond#6971
 
 Is anyone there? Is anyone there? I'm sending myself the flag! I'm sending myself the flag!
 
 Attachment: [echo_chamber.pcap](/others/huntressctf-2024/echo-chamber/echo_chamber.pcap)
 
-## Solution:
+## Solution
 We are presented with a PCAP file. This is data from packet capture and can be opened and read by tools known as packet analyzers. I used a tool called [Wireshark](https://en.wikipedia.org/wiki/Wireshark). 
 
 Opening the PCAP file, I see only ICMP packets. 

@@ -9,7 +9,7 @@ keywords = ['Huntress CTF writeups']
 summary = "A simulation of time-based side channel attack. Quite interesting."
 +++
 # Time will tell
-## Challenge Statement:
+## Challenge Statement
 Author: @aenygma
 
 A side channel timing attack.  
@@ -24,7 +24,7 @@ The password is dynamic and changes every connection session.
 
 Attachment: [app.py](/others/huntressctf-2024/time-will-tell/app.py)
 
-## Solution:
+## Solution
 Oh this was a good one. I mean they did tell it is side channel timing attack right there. But still we can have fun. We are given a python script [app.py](/others/huntressctf-2024/time-will-tell/app.py). It is not a very big script, so if you want to go through it entirely you are free to do that, but here is the gist of the script.
 
 ```python

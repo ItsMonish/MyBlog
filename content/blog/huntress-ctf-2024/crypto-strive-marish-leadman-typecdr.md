@@ -2,7 +2,7 @@
 title = "Cryptography - Strive Marish Leadman TypeCDR"
 date = '2025-04-26T17:51:33+05:30'
 author = "Monish Kumar"
-description = ""
+description = "A simple thing with RSA algorithm"
 tags = ["Cryptography"]
 categories = ['Writeup', "Huntress CTF 2024"]
 keywords = ['Huntress CTF writeups']
@@ -20,7 +20,7 @@ Can you make sense of it?
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 On spinning up the per-user instance, I was given a command to use Netcat into the instance. 
 
 On connecting it just print out the following data and exitted.

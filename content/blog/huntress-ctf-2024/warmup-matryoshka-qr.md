@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "QR code insdie a QR code, like a Matryoshka doll"
 +++
 # MatryoshkaQR
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 Wow! This is a **_big_** QR code! I wonder what it says...?
 
 Attachment: [qrcode.png](/others/huntressctf-2024/matryoshka-qr/qrcode.png)
 
-## Solution:
+## Solution
 As we can see the given file is a [QR code](https://en.wikipedia.org/wiki/QR_code).
 
 ![Output of qrcode.png file](/images/huntressctf-2024/matryoshka-qr/1.png)

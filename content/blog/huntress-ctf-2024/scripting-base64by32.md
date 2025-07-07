@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "32 times Base64"
 +++
 # Base64by32
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 This is a dumb challenge. I'm sorry.
 
 Attachment: [base64by32.zip](/others/huntressctf-2024/base64by32/base64by32.zip)
 
-## Solution:
+## Solution
 Unzipping the archive we are given with a text file, [base64by32](/others/huntressctf-2024/base64by32/base64by32).  Opening this file, we see a lot of data in strings. If you are familiar with few types of encodings of binary as text, you may recognize this as base64 encoded data right off the bat. Or you can infer that from the title of the challenge as well.
 
 So I decided to decode the data with command line base64 utility. 

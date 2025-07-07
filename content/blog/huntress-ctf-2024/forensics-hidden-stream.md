@@ -9,7 +9,7 @@ keywords = ['Huntress CTF writeups']
 summary = "A challenge to find hidden alternate data streams in event logs"
 +++
 # Hidden Streams
-## Challenge Statement:
+## Challenge Statement
 Author: Adam Rice (@adam.huntress)
   
 Beneath the surface, secrets glide,  
@@ -25,7 +25,7 @@ Can you find the secrets in these Sysmon logs?
 
 Attachment: [Challenge.zip](/others/huntressctf-2024/hidden-streams/Challenge.zip)
 
-## Solution:
+## Solution
 The zip contains a EVTX Sysmon log file. You may use the windows event viewer to open this or you could use something like [evtx_dump](https://github.com/omerbenamram/evtx) to dump it as XML.
 
 Some time ago I have watched this [video](https://www.youtube.com/watch?v=5Bxl6mVSLEk) from [John Hammond](https://www.youtube.com/@_JohnHammond)'s Channel where he explains about hiding data about alternate data streams. Since, he is working in Huntress, it gives me enough reason that this might exactly be the case. But we only have an event log.

@@ -8,12 +8,12 @@ keywords = ['Huntress CTF writeups']
 summary = "Challenge about retrieving a particular DNS Record type"
 +++
 # TXT Message
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 Hmmm, have you seen some of the strange DNS records for the `ctf.games` domain? One of them sure is [od](https://en.wikipedia.org/wiki/Od_(Unix))d...
 
-## Solution:
+## Solution
 The challenge description suggests some strange DNS records with `ctf.games` I decided to lookup the DNS records. Further the title of the challenge says more. Since I put some time studying DNS protocol I am familiar with a `TXT` query type that pulls the text data given by the domain administrator. 
 
 Hence using the `dig` command from the [bind](https://www.isc.org/bind/)  with the query:

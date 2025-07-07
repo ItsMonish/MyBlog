@@ -9,14 +9,14 @@ keywords = ['Huntress CTF writeups']
 summary = "A challenge with USB packet capture"
 +++
 # Keyboard Junkie
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
  
 My friend wouldn't shut up about his new keyboard, so...
 
 Attachment: [keyboard_junkie](/others/huntressctf-2024/keyboard-junkie/keyboard_junkie)
 
-## Solution:
+## Solution
 Running file command on the attachment reveals it to be a PCAP file. Opening it with a wireshark, a packet analyzer, we can observe USB capture data. 
 
 ![usb descriptor](/images/huntressctf-2024/keyboard-junkie/1.png)

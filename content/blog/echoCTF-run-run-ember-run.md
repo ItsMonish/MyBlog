@@ -1,13 +1,14 @@
 +++
 date = '2025-06-22T13:45:21+05:30'
 title = 'Run Run, Ember Run! - EchoCTF Writeup'
-categories = ['Writeup']
+description = 'An interesting challenge involving a MBR boot sector'
+categories = ['Writeup', 'EchoCTF']
 tags = ['forensics','challenge-writeup','echoCTF']
 keywords = ['forensics', 'echoctf', 'writeup', 'mbr boot sector']
 summary = 'Writeup for an EchoCTF challenge - Run Run, Ember Run!'
 +++
 
-### Introduction:
+## Introduction
 This writeup deals with the [Run Run, Ember Run!](https://echoctf.red/challenge/9) challenge from [EchoCTF](https://echoctf.red/). This challenge focused on understanding the MBR boot record format and the bootstrap code it contains. A compressed gunzip archive [run_run_ember_run.img.gz](https://echoctf.red/uploads/run_run_ember_run.gz) contains challenge file.
 
 Challenge Statement:
@@ -36,7 +37,7 @@ What is the flag being displayed from the backdoored address?
 
 ```
 
-### Writeup:
+## Writeup
 The question makes it look like the challenge has something to do with a binary reverse engineering analysis. But also there are points that suggest that it a disk? So first we need to understand what it is we are given.
 
 ![file utility output](/images/echoctf_runrunemberrun/1.png)
@@ -159,8 +160,8 @@ Yes. We just had to put it there and the flag is given. Could've tried that firs
 
 We still need answer for Q3. Now this part, I think the question is kinda misleading. It asks for the "backdoored address". Technically, the backdoor is at offset 86. MBR base address starts at 0x7c00, making the "backdoored address" as 0x7c86. But this is not it. The answer is the value we need to meet at this address. That is our answer for Q3. Or maybe I'm mistaken, but as far as I can tell, that is not an address.
 
-#### Note:
+### Note
 You can actually find the both of the flags in the hex dump from the beginning if you look for it (with some 'pattern recognition'). I didn't.But it's just the flags.
 
-### Conclusion:
+## Conclusion
 It did take me quite some time to figure out Q3, but nevertheless, the challenge was fun and unique. There ain't many challenges that require you to boot a boot sector. So all things considered it was a solid.

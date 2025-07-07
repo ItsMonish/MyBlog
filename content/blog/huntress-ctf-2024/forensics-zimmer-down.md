@@ -8,8 +8,8 @@ categories = ['Writeup', "Huntress CTF 2024"]
 keywords = ['Huntress CTF writeups']
 summary = "Diving into the registry key clusters"
 +++
-# Obfuscation Station
-## Challenge Statement:
+# Zimmer Down
+## Challenge Statement
 Author: @sudo_Rem
 
 A user interacted with a suspicious file on one of our hosts.  
@@ -20,7 +20,7 @@ Are they hiding any secrets?
 
 Attachment: [NTUSER.DAT](/others/huntressctf-2024/zimmer-down/NTUSER.DAT)
 
-## Solution:
+## Solution
 The attachment is the NTUSER.DAT file of some windows host. NTUSER.DAT is a special file that is located in the userprofile of each user. This file stores the registry keys of a particular user, also called as registry hives.
 
 One may open it by loading the hive onto the windows registry editor or use tools to explore the keys directly. I used a tool called `reglookup`.

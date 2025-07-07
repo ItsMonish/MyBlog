@@ -9,7 +9,7 @@ keywords = ['Huntress CTF writeups']
 summary = "A wild goose hunt in a web server"
 +++
 # Malibu
-## Challenge Statement:
+## Challenge Statement
 Author: Truman Kain
 
 What do you bring to the beach?  
@@ -24,7 +24,7 @@ Extra tip, once you know what the service is, try connecting in a better way. Th
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 Spinning up the per-user instance for the challenge I was given a command line to connect to a instance using netcat. It printed nothing. No prompt. Just like they told in the challenge description. So it seems it is waiting for some input, not sure what. I typed in a hello, because I had to give it something. 
 
 ![hello to server](/images/huntressctf-2024/malibu/1.png)

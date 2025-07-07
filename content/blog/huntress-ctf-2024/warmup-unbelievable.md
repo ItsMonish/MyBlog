@@ -8,7 +8,7 @@ keywords = ['Huntress CTF writeups']
 summary = "Finding the right file format"
 +++
 # Unbelievable
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 Don't believe everything you see on the Internet!  
@@ -17,7 +17,7 @@ Anyway, have you heard this intro soundtrack from Half-Life 3?
 
 Attachment: [Half-Life_3_OST.mp3](/others/huntressctf-2024/unbelievable/Half-Life_3_OST.mp3)
 
-## Solution:
+## Solution
 Downloading the file, it seems to be an MP3 audio. So I played it with aplay from ALSA driver. It actually played but it was just random noise for a couple seconds. 
 
 Since the challenge description tells about misinformation I decided to check if it is really a audio file. So I checked it with the file utility.

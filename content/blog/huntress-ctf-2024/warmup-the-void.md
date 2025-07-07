@@ -8,14 +8,14 @@ keywords = ['Huntress CTF writeups']
 summary = "Takes hidden in plain sight literally"
 +++
 # The Void
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond#6971
 
 When you gaze long into the void, the void gazes also into you...
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 This challenge had no attachment to download. We are to use netcat to connect to a given instance. Doing so printed grey block characters such as in the image below:
 
 ![Grey text](/images/huntressctf-2024/the-void/1.png)

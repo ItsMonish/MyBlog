@@ -5,7 +5,7 @@ layout = 'about'
 +++
 
 ### Hello there!!
-I'm Monish. I also go by NightComet. Generally speaking a Cybersecurity Enthusiast, but always curious about computers in general. Based out of Tamil Nadu, India. 
+I'm Monish. Generally speaking a Cybersecurity Enthusiast, but always curious about computers in general. Based out of Tamil Nadu, India. 
 
 #### Looking for work:
 Looking to start my career in the IT industry. I'm open to any roles in Cybersecurity, System Engineering, Reliability Engineering and Backend Software Development.  
@@ -14,8 +14,6 @@ Looking to start my career in the IT industry. I'm open to any roles in Cybersec
 - Bachelors in Technology: Information Technology (2020 - 2024).
 - [CompTIA Security+ SY0-701 Certified.](https://www.credly.com/badges/6aac3c2e-cb90-4aef-a5d2-e55af5cf5023/public_url)
 - [CCNA: Introduction to Networks.](https://www.credly.com/badges/fe24ce4a-4e5b-4b76-8f98-77299b5b8948/public_url)
-
-[![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)](https://echoctf.red/profile/3293998)
 
 #### What I can do:
 - Proficient in Python, Go, Bash, C/C++, Javascript, Java. Quite good with the backend stuffs, frontends on the other hand are not really my forte. Can also work with SQL and NoSQL databases.
@@ -29,6 +27,8 @@ Looking to start my career in the IT industry. I'm open to any roles in Cybersec
 - And can go on and on about tools. Familiar with operational tools like virtualization(QEMU), Containerization(Docker and Kubernetes), Configuration Management(Ansible, SaltStack) to Security tools like Firewalls, EDR/XDR, Pentesting tools (Metasploit, Burpsuite, etc...).
 
 - Thanks to the endless CTF challenges, I can do anything from Static and Dynamic Malware Analysis, basic forensics, web exploitation, log analysis etc. Quite good with tooling around these areas as well.
+
+[![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)](https://echoctf.red/profile/3293998)
 
 #### Contacts:
 - Github: [ItsMonish](https://github.com/ItsMonish)

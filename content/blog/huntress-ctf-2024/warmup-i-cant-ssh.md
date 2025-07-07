@@ -8,7 +8,7 @@ keywords = ['Huntress CTF writeups']
 summary = "A troubleshooting challenge for failing SSH logins"
 +++
 # I Can't SSH
-## Challenge Statement:
+## Challenge Statement
 Author: @JohnHammond
 
 I've got this private key... but why can't I SSH?
@@ -17,7 +17,7 @@ Attachment: [privkey](/others/huntressctf-2024/i-cant-ssh/privkey)
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 Opening the file reveals that it is a OpenSSH Private key. So in theory it should be able to get us into a SSH server enabled account with the corresponding public key. So I try to SSH into the instance I spun up.
 
 ![Failure message to SSH](/images/huntressctf-2024/i-cant-ssh/1.png)

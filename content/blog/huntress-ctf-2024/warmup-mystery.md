@@ -8,7 +8,7 @@ keywords = ['Huntress CTF writeups']
 summary = "Really old encryption"
 +++
 # Mystery
-## Challenge Statement:
+## Challenge Statement
 Author: @Michael
 
 Someone sent this to me...  
@@ -25,7 +25,7 @@ _such enigma, such mystery:_
 -   Reflector: UKW B
 -   Plugboard: `BQ CR DI EJ KW MT OS PX UZ GH`
 
-## Solution:
+## Solution
 This challenge had no attachment to download. So all we have is a cipher text and some "settings". From my recollection of the movie [The Imitation Game](https://en.wikipedia.org/wiki/The_Imitation_Game) I remember that the [Enigma machine](https://en.wikipedia.org/wiki/Enigma_machine) had rotors and some sort of plugboards. 
 
 That and the enigma in the challenge description strongly suggested we have a enigma cipher with key. I don't have a enigma machine, luckily I found [this](https://cryptii.com/pipes/enigma-decoder) decoder. I put in the ciphertext, plugged in the setting and got an output.

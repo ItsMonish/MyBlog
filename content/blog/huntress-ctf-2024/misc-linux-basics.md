@@ -9,7 +9,7 @@ keywords = ['Huntress CTF writeups']
 summary = "A simple questionnaire based challenge on linux basics"
 +++
 # Linux Basics
-## Challenge Statement:
+## Challenge Statement
 Author: @aenygma
 
 You're expected to answer a series of questions to get the flag.  
@@ -22,7 +22,7 @@ To view the questions, and answer them, you'll use the `answer` tool.
 
 **Note**: This challenge was accompanied with a per-user instance
 
-## Solution:
+## Solution
 Spinning up the per-user instance for the challenge I was able to connect using netcat to a "shell". Except it wasn't a shell but a relay of data using [socat](https://linux.die.net/man/1/socat). Anyway once I got in I was greeted with a message and as per the challenge description I ran `answer` to see the questions.
 
 ![questions](/images/huntressctf-2024/linux-basics/1.png)

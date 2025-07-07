@@ -9,7 +9,7 @@ keywords = ['Huntress CTF writeups']
 summary = "Reverse engineering a basic binary written in Go"
 +++
 # GoCrackMe1
-## Challenge Statement:
+## Challenge Statement
 Author: @HuskyHacks
   
 TENNNNNN-HUT!  
@@ -24,7 +24,7 @@ First up is the easiest of the three. Go get em!
 
 Attachment: [GoCrackMe1.zip](/others/huntressctf-2024/gocrackme1/GoCrackMe1.zip)
 
-## Solution:
+## Solution
 Extracting the archive we are provided with ELF executable (linux executable) that is obviously written and compiled with Go language. 
 
 Even though this is a reverse engineering challenge, my first thought was to run it. So when I ran it (of course in a virtual machine), I got an "Access denied!" straight. So there is a good chance there is a conditional statement in the binary, that controls the execution flow.
