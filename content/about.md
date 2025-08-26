@@ -4,18 +4,16 @@ title = 'About Me'
 layout = 'about'
 +++
 
-### Hello there!!
+## Hello there!!
 I'm Monish. Generally speaking a Cybersecurity Enthusiast, but always curious about computers in general. Based out of Tamil Nadu, India. 
 
-#### Looking for work:
-Looking to start my career in the IT industry. I'm open to any roles in Cybersecurity, System Engineering, Reliability Engineering and Backend Software Development.  
-
-#### Education and Certifications:
+## Education and Certifications
+- Masters in Technology: Computer Science and Engineering (Pursuing).
 - Bachelors in Technology: Information Technology (2020 - 2024).
 - [CompTIA Security+ SY0-701 Certified.](https://www.credly.com/badges/6aac3c2e-cb90-4aef-a5d2-e55af5cf5023/public_url)
 - [CCNA: Introduction to Networks.](https://www.credly.com/badges/fe24ce4a-4e5b-4b76-8f98-77299b5b8948/public_url)
 
-#### What I can do:
+## What I can do
 - Proficient in Python, Go, Bash, C/C++, Javascript, Java. Quite good with the backend stuffs, frontends on the other hand are not really my forte. Can also work with SQL and NoSQL databases.
 
 - Know my way around operating systems. Linux, BSDs and even Windows. Have been a mainstream linux user for several years. *I use arch btw*. 
@@ -30,7 +28,7 @@ Looking to start my career in the IT industry. I'm open to any roles in Cybersec
 
 [![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)](https://echoctf.red/profile/3293998)
 
-#### Contacts:
+## Contacts
 - Github: [ItsMonish](https://github.com/ItsMonish)
 - LinkedIn: [Monish Kumar](https://www.linkedin.com/in/monish-kumar-a-b17119281/)
 - Mail: [monishkumar03@protonmail.com](mailto:monishkumar03@protonmail.com)
