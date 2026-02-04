@@ -26,7 +26,7 @@ I'm Monish. Generally speaking a Cybersecurity Enthusiast, but always curious ab
 
 - Thanks to the endless CTF challenges, I can do anything from Static and Dynamic Malware Analysis, basic forensics, web exploitation, log analysis etc. Quite good with tooling around these areas as well.
 
-[![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)](https://echoctf.red/profile/3293998)
+[![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)](https://echoctf.red/profile/3293998/badge)
 
 ## Contacts
 - Github: [ItsMonish](https://github.com/ItsMonish)
