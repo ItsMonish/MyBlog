@@ -1,11 +1,10 @@
 +++
-date = '2025-04-21T20:37:18+05:30'
 title = 'About Me'
 layout = 'about'
 +++
 
 ## Hello there!!
-I'm Monish. Generally speaking a Cybersecurity Enthusiast, but always curious about computers in general. Based out of Tamil Nadu, India. 
+I'm Monish. Generally speaking a Cybersecurity and Linux Enthusiast, but always curious about computers in general. 
 
 ## Education and Certifications
 - Masters in Technology: Computer Science and Engineering (Pursuing).
@@ -18,15 +17,15 @@ I'm Monish. Generally speaking a Cybersecurity Enthusiast, but always curious ab
 
 - Know my way around operating systems. Linux, BSDs and even Windows. Have been a mainstream linux user for several years. *I use arch btw*. 
 
-- Oh I love Networks. Have spent a fair share of time studying protocols, inspecting packets in Wireshark and socket programming. Even worked with Cisco IOS in Packettracer.  
+- Oh I love Networks. Have spent a fair share of time studying protocols, inspecting packets in Wireshark and socket programming.  
 
 - Good with cloud environments. So far played around with AWS and GCP only. But you know names change, but the tech is mostly the same.
 
-- And can go on and on about tools. Familiar with operational tools like virtualization(QEMU), Containerization(Docker and Kubernetes), Configuration Management(Ansible, SaltStack) to Security tools like Firewalls, EDR/XDR, Pentesting tools (Metasploit, Burpsuite, etc...).
+- And can go on and on about tools. Familiar with operational tools like virtualization(QEMU), Containerization(Docker and Kubernetes) to Security tools like Firewalls, Pentesting tools (Metasploit, Burpsuite, etc...).
 
 - Thanks to the endless CTF challenges, I can do anything from Static and Dynamic Malware Analysis, basic forensics, web exploitation, log analysis etc. Quite good with tooling around these areas as well.
 
-[![EchoCTF Badge](https://echoctf.red/profile/3293998/badge)](https://echoctf.red/profile/3293998/badge)
+- Lately been experimenting and learning on using eBPF. 
 
 ## Contacts
 - Github: [ItsMonish](https://github.com/ItsMonish)
