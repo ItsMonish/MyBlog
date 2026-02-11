@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /search/
+Disallow: /page/
+
+Sitemap: https://itsmonish.pages.dev/sitemap.xml

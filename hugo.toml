@@ -1,4 +1,3 @@
-baseURL = 'https://ItsMonish.github.io/'
 languageCode = 'en-us'
 enableRobotsTXT = true
 title = "Monish Kumar's Blog"
