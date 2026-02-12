@@ -1,3 +1,4 @@
+baseURL = 'https://itsmonish.pages.dev/'
 languageCode = 'en-us'
 enableRobotsTXT = true
 title = "Monish Kumar's Blog"
