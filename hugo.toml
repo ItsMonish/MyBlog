@@ -6,7 +6,7 @@ title = "Monish Kumar's Blog"
 theme = "hugo-theme-stack"
 
 [params]
-description = "Monish Kumar's Blog"
+description = "Personal page and blog about CTF and technical writeups. Covers topics such as Cybersecurity, Linux and more"
 
 [caches]
 [caches.images]
