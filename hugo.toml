@@ -5,6 +5,9 @@ title = "Monish Kumar's Blog"
 
 theme = "hugo-theme-stack"
 
+[params]
+description = "Monish Kumar's Blog"
+
 [caches]
 [caches.images]
 dir = ':cacheDir/images'
